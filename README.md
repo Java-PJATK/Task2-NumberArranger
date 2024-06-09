@@ -11,13 +11,13 @@ Deadline: Mar 29 (inclusive)
 Write a program which reads three integers (say, `a`, `b` and `c`), then prints these three numbers
 
 ```java
-System. out . println(a +
+System.out.println(a + " " + b + " " + c);
 
 ```
 and then rearranges the values in these variables in such a way that `a` contains the smallest of the three numbers, `b` — the middle one, and `c` — the largest. Print again
 
 ```java
-System. out . println(a + "
+System.out.println(a + " " + b + " " + c);
 ```
 
 and you shoud sce the same three numbers, but in ascending order.
